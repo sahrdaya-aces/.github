@@ -9,7 +9,7 @@ Established in 2004, the Association of Computer Engineering Students (ACES) at 
 # Social Handles
 
 <p align="center">
-    <a href=https://www.linkedin.com/company/aces-sahrdaya">
+    <a href="https://www.linkedin.com/company/aces-sahrdaya/about/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/_a_c_e_s._/">
